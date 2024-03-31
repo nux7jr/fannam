@@ -1,0 +1,77 @@
+* {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+img {
+    width: 100%;
+    height: auto;
+}
+body {
+    font-family: "Mulish", sans-serif;
+    background-color: var(--color-body);
+    color: var(--color-body-text);
+    transition: 0.2s background-color;
+}
+*::selection {
+  background-color: var(--color-selection-bg);
+  color: var(--color-selection-text);
+}
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  border: 0;
+  padding: 0;
+  white-space: nowrap;
+  clip-path: inset(100%);
+  clip: rect(0 0 0 0);
+  overflow: hidden;
+}
+button {
+    display: block;
+    border: none;
+    background-color: transparent;
+
+    padding: 0;
+    margin: 0;
+
+    font-family: inherit;
+    font-size: inherit;
+
+    cursor: pointer;
+}
+input, textarea {
+    font-family: inherit;
+    font-size: inherit;
+}
+.container {
+  padding: 0 10px;
+}
+@media (min-width: 575.98px) {
+  .container {
+    padding: 0 20px;
+  }
+}
+@media (min-width: 767.98px) {
+  .container {
+    padding: 0 30px;
+  }
+}
+@media (min-width: 991.98px) {
+  .container {
+    padding: 0 50px;
+  }
+}
+@media (min-width: 1199.98px) {
+  .container {
+    padding: 0 160px;
+  }
+}
+@media (min-width: 1499.98px) {
+  .container {
+    padding: 0;
+    margin: 0 auto;
+    max-width: 1240px;
+  }
+}

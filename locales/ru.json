@@ -1,0 +1,24 @@
+{
+    "locale": {
+        "en": "Английский",
+        "ru": "Русский"
+      },
+      "header": {
+        "search": "Поиск",
+        "singIn": "Войти",
+        "register": "Регистрации",
+        "add": "Добавить пост"
+      },
+      "menu": {
+        "general": "Главная",
+        "search": "Поиск",
+        "newPost": "Новый пост",
+        "personal": "Профиль"
+      },
+      "feed": {
+        "recommendations": {
+          "recommendationsTitle": "Рекомендации для вас",
+          "all": "Все"
+        }
+      }
+}
