@@ -79,9 +79,8 @@
                 </SharedUiButton>
             </div>
             <div class="profile__level">
-                Уровни подписки
-                select
-                Научный сотрудник
+                <p>Уровни подписки</p>
+                <SharedUiSelect :options="selectValue"></SharedUiSelect>
             </div>
             <div class="profile-goal">
                 <div class="profile-goal__top">
@@ -111,6 +110,16 @@
         </div>
     </section>
 </template>
+<script setup>
+const selectValue = ref([
+    {
+        label: 'Аспирант'
+    },
+    {
+        label: 'Научный сотрудник'
+    }
+])
+</script>
 <style scoped>
 .profile__logo {
     width: 64px;

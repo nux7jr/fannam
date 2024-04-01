@@ -3,6 +3,10 @@
         <NuxtLink to="/feed">
             profile
         </NuxtLink>
+
         <Service></Service>
     </div>
 </template>
+<script setup>
+
+</script>
