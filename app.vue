@@ -8,7 +8,7 @@
   --border-radius: 15px;
   --border-small-radius: 8px;
 }
-/* #25282D */
+/* #5F697C */
 
 html[data-theme="light"] {
   --color-primary: #25282D;
@@ -21,7 +21,8 @@ html[data-theme="light"] {
   --color-selection-text: white;
 
   --color-background: white;
-  --color-body: white;
+  --color-background-secondary: #32353A;
+  
   --color-body-text: #25282D;
   --color-body-text-secondary: #111214;
 
@@ -48,8 +49,8 @@ html[data-theme="dark"] {
   --color-selection-bg: #A8A8A8;
   --color-selection-text: black;
 
-  --color-background: #2F2F2F;
-  --color-body: #181818;
+  --color-background: #1E1E1E;
+  --color-background-secondary: #32353A;
   --color-body-text: white;
   --color-body-text-secondary: #C4C7CF;
 

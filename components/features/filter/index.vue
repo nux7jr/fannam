@@ -1,5 +1,5 @@
 <template>
-    <div>
-        filter
+    <div class="container">
+        <SharedUiSearch></SharedUiSearch>
     </div>
 </template>

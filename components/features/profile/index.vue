@@ -13,12 +13,22 @@
                     <span class="profile__inner-text">
                         Username Username
                     </span>
-                    <svg width="20" height="19" viewBox="0 0 20 19" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path
-                            d="M8.32577 1.5621C9.11511 0.354161 10.8849 0.354161 11.6742 1.5621L12.3892 2.65623C12.7954 3.27787 13.5126 3.62327 14.2519 3.55327L15.5532 3.43008C16.9897 3.29408 18.0931 4.67775 17.6409 6.04802L17.2312 7.28919C16.9985 7.99438 17.1756 8.77047 17.6913 9.30484L18.5989 10.2454C19.6009 11.2837 19.2071 13.0091 17.8538 13.5099L16.628 13.9634C15.9315 14.2212 15.4352 14.8435 15.3389 15.5799L15.1695 16.8759C14.9824 18.3067 13.3879 19.0745 12.1526 18.3287L11.0337 17.6531C10.398 17.2693 9.60198 17.2693 8.96626 17.6531L7.84736 18.3287C6.61209 19.0745 5.01757 18.3067 4.8305 16.8759L4.66105 15.5799C4.56478 14.8435 4.06845 14.2212 3.372 13.9634L2.1462 13.5099C0.792909 13.0091 0.399095 11.2837 1.4011 10.2454L2.3087 9.30484C2.82437 8.77047 3.00151 7.99438 2.76876 7.28919L2.35911 6.04802C1.90686 4.67775 3.0103 3.29408 4.44685 3.43008L5.74805 3.55327C6.48735 3.62327 7.20457 3.27787 7.61079 2.65623L8.32577 1.5621Z"
-                            fill="#6896FB" />
-                    </svg>
-                    <span>
+                    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M7.1798 1.17597C7.57775 0.605394 8.42225 0.605395 8.8202 1.17597L8.9551 1.36937C9.24225 1.78108 9.79012 1.91611 10.2357 1.68502L10.445 1.57645C11.0626 1.25618 11.8103 1.64863 11.8975 2.33879L11.9271 2.57273C11.99 3.07072 12.4124 3.4449 12.9143 3.44734L13.1501 3.44849C13.8458 3.45188 14.3255 4.14689 14.082 4.79852L13.9995 5.01941C13.8238 5.4896 14.0238 6.0172 14.4672 6.25263L14.6754 6.36323C15.2898 6.68951 15.3916 7.52785 14.8731 7.99168L14.6974 8.1489C14.3233 8.48359 14.2553 9.04373 14.5384 9.45822L14.6714 9.65293C15.0638 10.2274 14.7643 11.017 14.0897 11.1867L13.8611 11.2443C13.3743 11.3668 13.0537 11.8312 13.1118 12.3297L13.1391 12.564C13.2196 13.2549 12.5875 13.8149 11.9112 13.6518L11.682 13.5964C11.1941 13.4787 10.6944 13.7409 10.5142 14.2094L10.4295 14.4295C10.1796 15.0787 9.35967 15.2808 8.83673 14.822L8.65947 14.6665C8.28213 14.3355 7.71787 14.3355 7.34053 14.6665L7.16327 14.822C6.64033 15.2808 5.82038 15.0787 5.57053 14.4294L5.48584 14.2094C5.30556 13.7409 4.80593 13.4787 4.31798 13.5964L4.08876 13.6518C3.41253 13.8149 2.78041 13.2549 2.8609 12.564L2.88818 12.3297C2.94625 11.8312 2.62572 11.3668 2.13894 11.2443L1.91027 11.1867C1.23565 11.017 0.936194 10.2274 1.32857 9.65293L1.46157 9.45822C1.7447 9.04373 1.67668 8.48359 1.30259 8.1489L1.12686 7.99168C0.608413 7.52785 0.710206 6.68951 1.32459 6.36323L1.53284 6.25263C1.97616 6.0172 2.17625 5.4896 2.00054 5.01941L1.918 4.79852C1.6745 4.14689 2.15422 3.45188 2.84986 3.44849L3.08566 3.44734C3.58761 3.4449 4.00996 3.07072 4.0729 2.57273L4.10246 2.33879C4.18968 1.64863 4.93744 1.25617 5.55497 1.57645L5.76429 1.68502C6.20988 1.91612 6.75775 1.78108 7.0449 1.36937L7.1798 1.17597Z" fill="url(#paint0_linear_456_11671)"/>
+                        <g clip-path="url(#clip0_456_11671)">
+                        <path d="M5.45459 8.36361L6.90914 9.81816L10.5455 6.18179" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                        </g>
+                        <defs>
+                        <linearGradient id="paint0_linear_456_11671" x1="2.54545" y1="2.90909" x2="13.4545" y2="13.8182" gradientUnits="userSpaceOnUse">
+                        <stop stop-color="#C0A27E"/>
+                        <stop offset="1" stop-color="#BE8848"/>
+                        </linearGradient>
+                        <clipPath id="clip0_456_11671">
+                        <rect width="8.72727" height="8.72727" fill="white" transform="translate(3.63647 3.63635)"/>
+                        </clipPath>
+                        </defs>
+                        </svg>
+                    <span class="profile__plank">
                         18+
                     </span>
                 </div>
@@ -78,9 +88,9 @@
                     <span>Поддержать автора</span>
                 </SharedUiButton>
             </div>
-            <div class="profile__level">
-                <p>Уровни подписки</p>
-                <SharedUiSelect :options="selectValue"></SharedUiSelect>
+            <div class="profile__level profile-level">
+                <p class="profile-level__label">Уровни подписки</p>
+                <SharedUiSelect class="profile-level__select" :options="selectValue"></SharedUiSelect>
             </div>
             <div class="profile-goal">
                 <div class="profile-goal__top">
@@ -121,6 +131,22 @@ const selectValue = ref([
 ])
 </script>
 <style scoped>
+
+.profile-level__select {
+    margin-bottom: 16px;
+}
+.profile-level__label {
+    margin: 16px 0 8px 0;
+}
+.profile__plank {
+    color: var(--color-body-text-secondary);
+}
+.profile__username {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 4px;
+}
 .profile__logo {
     width: 64px;
     height: 64px;
@@ -209,6 +235,9 @@ const selectValue = ref([
 .profile__inner-text, .profile-sub__number {
     font-weight: 600;
 }
+.profile-sub__number {
+    margin-bottom: 6px;
+}
 .profile-sub__desc {
     color: var(--color-body-text-secondary);
 }
@@ -216,6 +245,10 @@ const selectValue = ref([
     display: flex;
     flex-direction: column;
     gap: 10px;
+    padding: 10px;
+    border-radius: 4px;
+
+    background-color: var(--color-background-secondary);
 }
 .profile-goal__text, .profile-goal__top {
     display: flex;
